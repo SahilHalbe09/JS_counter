@@ -59,3 +59,12 @@ Feel free to fork the repository and submit pull requests. Your contributions ar
 
  - Thanks to [FreeCodeCamp.org](https://twitter.com/freeCodeCamp) for the inspiration.
 
+
+## Screenshots
+
+![App Screenshot](https://i.paste.pics/L56VR.png)
+
+![App Screenshot](https://i.paste.pics/L56WI.png)
+-
+![App Screenshot](https://i.paste.pics/L56X2.png)
+
